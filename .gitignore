@@ -26,7 +26,18 @@
 *.a
 *.lib
 
+# VS Code
+*.json
+
+# Input Files
+*.bin
+
+# Output Files
+*.asm
+*.src.txt
+
 # Executables
 *.exe
 *.out
 *.app
+translator
